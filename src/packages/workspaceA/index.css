@@ -1,0 +1,17 @@
+.login_form{
+    width: 300px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    height: 150px;
+    justify-content: space-around;
+    background:white;
+}
+
+._input{
+    height: 30px;
+}
+
+.submit_btn{
+    height: 30px;
+}
